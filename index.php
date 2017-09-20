@@ -1,16 +1,25 @@
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="google" content="notranslate">
-    <meta http-equiv="Content-Language" content="en">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Steve Gillespie - Actor and Comedian</title>
-    <link rel="stylesheet" href="css/foundation.min.css">
-    <link rel="stylesheet" href="css/app.css">
-    <link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Sedgwick+Ave" rel="stylesheet">
-    <link href="https://opensource.keycdn.com/fontawesome/4.7.0/font-awesome.min.css" rel="stylesheet">
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="google" content="notranslate">
+  <meta http-equiv="Content-Language" content="en">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta content="minneapolis comedy, wisconsin comedy, steve gillespie, ripon comedian, midwest comedy, comedian, stand up comedian. stand up comedy, stand up minneapolis, st paul comedy, st paul comedian" name="keywords" />
+  <meta content="Steve Gillepsie is a stand-up comeidan from Wisconsin, currently hailing form the greater Minneapolis/St Paul area." name="description" />
+  <meta content="Steve Gillespie - Actor and Comedian" name="title" />
+  <meta content="public_figure" property="og:type" />
+  <meta content="Steve Gillespie Comedy" property="og:site_name" />
+  <meta content="http://gillespiecomedy.com/" property="og:url" />
+  <meta content="http://gillespiecomedy.com/images/alive-on-state.jpg" property="og:image" />
+  <meta content="Steve Gillespie - Actor and Comedian" property="og:title" />
+  <title><?php echo $page_title;?></title>
+  <link rel="stylesheet" href="css/foundation.min.css">
+  <link rel="stylesheet" href="css/app.css">
+  <link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Indie+Flower|Metamorphous|Sedgwick+Ave" rel="stylesheet">
+  <link href="https://opensource.keycdn.com/fontawesome/4.7.0/font-awesome.min.css" rel="stylesheet">
+</head>
   </head>
   <body>
 
@@ -21,7 +30,7 @@
       <span data-responsive-toggle="responsive-menu" data-hide-for="large">
         <button class="menu-icon dark" type="button" data-toggle></button>
       </span>
-        <strong><a class="index_linkback menu-text hand" href="./index.php">Gillespie.com</a></strong>
+        <strong><a class="index_linkback menu-text hand" href="./index.php">Gillespiecomedy.com</a></strong>
     </div>
     <div id="responsive-menu">
       <div class="top-bar-left">

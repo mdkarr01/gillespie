@@ -29,7 +29,7 @@
       <span data-responsive-toggle="responsive-menu" data-hide-for="large">
         <button class="menu-icon dark" type="button" data-toggle></button>
       </span>
-        <strong><a class="index_linkback menu-text hand" href="./index.php">Gillespie.com</a></strong>
+        <strong><a class="index_linkback menu-text hand" href="./index.php">Gillespiecomedy.com</a></strong>
     </div>
     <div id="responsive-menu">
       <div class="top-bar-left">
