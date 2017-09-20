@@ -15,9 +15,9 @@
     <meta content="http://gillespiecomedy.com/images/alive-on-state.jpg" property="og:image" />
     <meta content="Steve Gillespie - Actor and Comedian" property="og:title" />
     <title><?php echo $page_title;?></title>
-    <link rel="stylesheet" href="css/foundation.css">
+    <link rel="stylesheet" href="css/foundation.min.css">
     <link rel="stylesheet" href="css/app.css">
-    <link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Indie+Flower|Metamorphous" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Indie+Flower|Metamorphous|Sedgwick+Ave" rel="stylesheet">
     <link href="https://opensource.keycdn.com/fontawesome/4.7.0/font-awesome.min.css" rel="stylesheet">
   </head>
   <body>
@@ -29,7 +29,7 @@
       <span data-responsive-toggle="responsive-menu" data-hide-for="large">
         <button class="menu-icon dark" type="button" data-toggle></button>
       </span>
-        <strong><a class="index_linkback menu-text" href="./index.php">Gillespie.com</a></strong>
+        <strong><a class="index_linkback menu-text hand" href="./index.php">Gillespie.com</a></strong>
     </div>
     <div id="responsive-menu">
       <div class="top-bar-left">
