@@ -7,8 +7,12 @@ include ('includes/header.php');
 <!-- Begin hero -->
 <?php include ('includes/hero.php');?>
 <div class="row spaced">
-  <div class="small-12 large-10 large-centered columns">
-    <div><a href="https://www.facebook.com/UnderOurCoversPodcast/" target="_blank""><img src="./images/podcast_banner.jpg" alt="Under Our Covers podcast link"></a></div>
+  <div class="small-8 medium-centered columns">
+    <div>
+      <a href="https://www.facebook.com/UnderOurCoversPodcast/" target="_blank"><img src="./images/podcast_banner.jpg" alt="Under Our Covers podcast link"></a>
+    </div>
+  </div>
+</div>
     <!-- In this container, add blockquote-left or blockquote-right to make the blockquote left / -->
 <div class="blockquote-container">
   <div class="callout">
@@ -21,8 +25,27 @@ include ('includes/header.php');
 </div>
 
     <h3 class="title">...and here are some podcasts I've guested on.</h3>
-<!-- <table class="stack">
- -->
+  <div class="row spaced bottom">
+    <div class="small-6 large-4 columns">
+      <a href="https://onecrazystory.podbean.com/e/comedian-steve-gillespie-relives-a-wild-weekend-in-portland"><img src="./images/onecrazystory.jpg" alt="One Crazy Story Podcast" width="250" height="250" /></a>
+    </div>
+
+    <div class="small-6 large-8 columns">
+      <p>ONE CRAZY STORY  -- I was a guest on this podcast where I talked about a crazy night had in Portland where I went to Ron Jeremy's Sex Club.</p> (<a href="https://onecrazystory.podbean.com/e/comedian-steve-gillespie-relives-a-wild-weekend-in-portland">Just click here</a>).
+    </div>
+  </div>
+
+  <div class="row spaced bottom">
+    <div class="small-6 large-4 columns">
+      <a href="https://www.professionconfession.com/episodes/2017/7/19/11-undercover-narcotics-officer"><img src="./images/Profession-Confession.jpg" alt="Profession Confession Podcast" width="250" height="250" /></a>
+    </div>
+
+    <div class="small-6 large-8 columns">
+      <p>PROFESSION CONFESSION with Gabe Noah 
+I joined this popular podcast as a special guest host. We interview an undercover vice-cop and discuss police brutality and meth heads. Its a great episode and a fantastic podcast.</p> (<a href="https://www.professionconfession.com/episodes/2017/7/19/11-undercover-narcotics-officer">Just click here</a>).
+    </div>
+  </div>
+
   <div class="row spaced bottom">
     <div class="small-6 large-4 columns">
       <a href="http://www.allthingscomedy.com/  contents/15539/26-ep-370---king-arthur%3A-legend-of-the-sword---steve-gillespie-podcast"><img class="alignnone  wp-image-381" src="http://gillespiecomedy.com/wp-content/uploads/2016/06/ATC_ComedyFilmNerds_cover.jpg" alt="" width=" 335" height="335" /></a>
@@ -34,18 +57,18 @@ include ('includes/header.php');
   </div>
 
   <div class="row spaced bottom">
-    <div class="small-6 large-8 columns striped">
+    <div class="small-6 columns striped">
       <a href="http://www.stitcher.com/podcast/magnotronic"><img class="alignnone size-full wp-image-208" src="http://gillespiecomedy.com/wp-content/uploads/2016/09/magnotronic-.jpg" alt="magnotronic" width="480" height="270" /></a> 
     </div>
 
-    <div class="large-8 columns striped">
+    <div class="small-6 columns striped">
      <p>Guest appearance on the Three Guys Talking podcast. Rhianna Andrews and I join the boys to promote our new podcast "Under Our Covers" and to discuss all kinds of fun shit! Take a listen! (<a href="http://www.spreaker.com/user/the4dpodcastnetwork/three-guys-talking-top-three-tv-characte">Just click here.</a>)</p>
     </div>
   </div>
 
   <div class="row spaced bottom">
     <div class="small-6 large-4 columns">
-      <a href="http://www.allthingscomedy.com/  <a href="http://www.deathsquad.tv/bedtime-stories-pilot/"><img class="alignnone size-full wp-image-180" src="http://gillespiecomedy.com/wp-content/uploads/2016/06/bedtime-stories.png" alt="bedtime stories" width="638" height="550" /></a></a>
+      <a href="http://www.deathsquad.tv/bedtime-stories-pilot/"><img class="alignnone size-full wp-image-180" src="http://gillespiecomedy.com/wp-content/uploads/2016/06/bedtime-stories.png" alt="bedtime stories" width="638" height="550" /></a>
     </div>
 
     <div class="small-6 large-8 columns">

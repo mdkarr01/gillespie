@@ -1,9 +1,12 @@
+<?php header("strict-transport-security: max-age=31536000"); ?>
+<?php $page_title="Steve Gillespie - Actor and Comedian"  ?>
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
   <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <meta name="google" content="notranslate">
+  <meta name="google" content="notranslate"><link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
   <meta http-equiv="Content-Language" content="en">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta content="minneapolis comedy, wisconsin comedy, steve gillespie, ripon comedian, midwest comedy, comedian, stand up comedian. stand up comedy, stand up minneapolis, st paul comedy, st paul comedian" name="keywords" />
