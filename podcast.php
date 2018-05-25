@@ -25,6 +25,27 @@ include ('includes/header.php');
 </div>
 
     <h3 class="title">...and here are some podcasts I've guested on.</h3>
+
+  <div class="row spaced bottom">
+    <div class="small-6 large-4 columns">
+      <a href="https://www.professionconfession.com/new-blog/2018/3/1/38-tv-debut-steve-gillespie-conan"><img src="./images/profession-confession2.jpg" alt="Profession Confession podcast" width="300" height="300" /></a>
+    </div>
+
+    <div class="small-6 large-8 columns">
+      <p>I was lucky enough to be a guest on one of my favorite podcasts "Profession Confession with Gabe Noah". In this episode Gabe digs deep to reveal my deepest insecurities and fears of making my national television debut on Conan O'brien. Its a very candid and honest episode, enjoy! </p> (<a href="https://www.professionconfession.com/new-blog/2018/3/1/38-tv-debut-steve-gillespie-conan">Just click here</a>).
+    </div>
+  </div>
+  
+  <div class="row spaced bottom">
+    <div class="small-6 large-4 columns">
+      <a href="https://soundcloud.com/user-769402290/ep-9-stay-delusional-w-steve-gillespie-1"><img src="./images/unfunny-mike-podcast.jpg" alt="Unfunny Mike Podcast" width="784" height="295" /></a>
+    </div>
+
+    <div class="small-6 large-8 columns">
+      <p>I had a chance to sit down with Unfunny Mike on his great podcast. Take a listen!</p> (<a href="https://soundcloud.com/user-769402290/ep-9-stay-delusional-w-steve-gillespie-1"">Just click here</a>).
+    </div>
+  </div>
+
   <div class="row spaced bottom">
     <div class="small-6 large-4 columns">
       <a href="https://onecrazystory.podbean.com/e/comedian-steve-gillespie-relives-a-wild-weekend-in-portland"><img src="./images/onecrazystory.jpg" alt="One Crazy Story Podcast" width="250" height="250" /></a>

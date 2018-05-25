@@ -44,12 +44,12 @@ function get_file_extension($file_name) {
 <div class="row align-center">
   <div class="product-image-gallery small-12 large-8 large-centered columns">
   <h2 class="title">Promotional Photos</h2>
-  <h5><a href="./images/gillespie_images.zip" download="steve_gillespie_promo_pics">Download a .zip file of these images (5.1 MB)</a></h5><br>
+  <h5><a href="./images/gillespie-images.zip" download="steve_gillespie_promo_pics">Download a .zip file of these images (4.7 MB)</a></h5><br>
   <h5>Click to view the full image</h5>
 <?php
 /** settings **/
 $images_dir     = './images/preload-images/';
-$thumbs_dir     = './images/preload-images-thumbs/';
+$thumbs_dir     = './images/preload-images-thumbs2/';
 $images_per_row = 3;
 
 /** generate photo gallery **/
