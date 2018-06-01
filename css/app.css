@@ -24,7 +24,7 @@
 .promo-hero-content {
   z-index: 10;
   position: absolute;
-  top: 50%;
+  top: 80%;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
@@ -44,7 +44,7 @@
 
 .promo-hero-bg-image {
   overflow: hidden;
-  background-image: url(../images/gillespie.jpg);
+  background-image: url(../images/cleveland-promo.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -85,18 +85,15 @@
   border-color: transparent transparent transparent #fefefe;
 }
 
-.foundation-5-top-bar .js-drilldown-back > a::before {
+.foundation-5-top-bar .js-drilldown-back>a::before {
   border-color: transparent #fefefe transparent transparent;
 }
 
-.foundation-5-top-bar .is-drilldown-submenu-parent > a::after {
+.foundation-5-top-bar .is-drilldown-submenu-parent>a::after {
   border-color: transparent transparent transparent #fefefe;
 }
 
-.foundation-5-top-bar
-  .dropdown.menu.medium-horizontal
-  > li.is-dropdown-submenu-parent
-  > a::after {
+.foundation-5-top-bar .dropdown.menu.medium-horizontal>li.is-dropdown-submenu-parent>a::after {
   border-color: #fefefe transparent transparent;
 }
 

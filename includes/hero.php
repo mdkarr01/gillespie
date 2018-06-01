@@ -1,7 +1,5 @@
 <div class="promo-hero promo-hero-bg-image">
   <div class="promo-hero-content">
-    <h1 class="promo-hero-title">Steve Gillespie</h1>
-    <h4 class="promo-hero-description hide-for-small-only"><?php echo $page_specific;?></h4>
     <div class="promo-hero-ctas">
       <a href="./tour.php" class="promo-section-cta button white-hollow">Tour Dates</a>
       <a href="https://itunes.apple.com/us/album/alive-on-state/id1226724404?app=itunes&ign-mpt=uo%3D4" class="promo-section-cta button white-hollow" target="_blank">Latest Album</a>
