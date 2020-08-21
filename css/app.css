@@ -44,14 +44,14 @@
 
 .promo-hero-bg-image {
   overflow: hidden;
-  background-image: url(../images/cleveland-promo.jpg);
+  background-image: url(../images/090519-1.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
 }
 
 .promo-hero-bg-image:before {
-  content: "";
+  content: '';
   display: block;
   width: 100%;
   height: 100%;
@@ -85,15 +85,18 @@
   border-color: transparent transparent transparent #fefefe;
 }
 
-.foundation-5-top-bar .js-drilldown-back>a::before {
+.foundation-5-top-bar .js-drilldown-back > a::before {
   border-color: transparent #fefefe transparent transparent;
 }
 
-.foundation-5-top-bar .is-drilldown-submenu-parent>a::after {
+.foundation-5-top-bar .is-drilldown-submenu-parent > a::after {
   border-color: transparent transparent transparent #fefefe;
 }
 
-.foundation-5-top-bar .dropdown.menu.medium-horizontal>li.is-dropdown-submenu-parent>a::after {
+.foundation-5-top-bar
+  .dropdown.menu.medium-horizontal
+  > li.is-dropdown-submenu-parent
+  > a::after {
   border-color: #fefefe transparent transparent;
 }
 
@@ -122,12 +125,12 @@
 }
 
 .menu-text {
-  font-family: "Acme", sans-serif;
+  font-family: 'Acme', sans-serif;
   font-size: 1.5rem;
 }
 
 .hand {
-  font-family: "Sedgwick Ave", cursive;
+  font-family: 'Sedgwick Ave', cursive;
 }
 
 .center {
@@ -204,6 +207,7 @@
 /* Social buttons */
 
 @charset "UTF-8";
+
 .rounded-social-buttons {
   text-align: center;
   margin-top: 1.5rem;
@@ -241,8 +245,8 @@
 }
 
 .rounded-social-buttons .social-button.facebook:before {
-  font-family: "FontAwesome";
-  content: "";
+  font-family: 'FontAwesome';
+  content: '';
 }
 
 .rounded-social-buttons .social-button.facebook:hover,
@@ -257,8 +261,8 @@
 }
 
 .rounded-social-buttons .social-button.twitter:before {
-  font-family: "FontAwesome";
-  content: "";
+  font-family: 'FontAwesome';
+  content: '';
 }
 
 .rounded-social-buttons .social-button.twitter:hover,
@@ -273,8 +277,8 @@
 }
 
 .rounded-social-buttons .social-button.youtube:before {
-  font-family: "FontAwesome";
-  content: "";
+  font-family: 'FontAwesome';
+  content: '';
 }
 
 .rounded-social-buttons .social-button.youtube:hover,
@@ -289,8 +293,8 @@
 }
 
 .rounded-social-buttons .social-button.instagram:before {
-  font-family: "FontAwesome";
-  content: "";
+  font-family: 'FontAwesome';
+  content: '';
 }
 
 .rounded-social-buttons .social-button.instagram:hover,
@@ -387,6 +391,7 @@
   .no-js .top-bar {
     display: block;
   }
+
   .no-js .title-bar {
     display: none;
   }
@@ -426,9 +431,11 @@
   100% {
     -webkit-transform: translateY(0);
   }
+
   40% {
     -webkit-transform: translateY(-30px);
   }
+
   60% {
     -webkit-transform: translateY(-15px);
   }
@@ -442,9 +449,11 @@
   100% {
     -moz-transform: translateY(0);
   }
+
   40% {
     -moz-transform: translateY(-30px);
   }
+
   60% {
     -moz-transform: translateY(-15px);
   }
@@ -462,6 +471,7 @@
     -o-transform: translateY(0);
     transform: translateY(0);
   }
+
   40% {
     -webkit-transform: translateY(-30px);
     -moz-transform: translateY(-30px);
@@ -469,6 +479,7 @@
     -o-transform: translateY(-30px);
     transform: translateY(-30px);
   }
+
   60% {
     -webkit-transform: translateY(-15px);
     -moz-transform: translateY(-15px);
@@ -481,6 +492,7 @@
 /* blockquote */
 
 @charset "UTF-8";
+
 .blockquote-container.blockquote-left {
   float: left;
   width: 35%;
@@ -506,7 +518,7 @@
 }
 
 .blockquote-container .callout blockquote {
-  quotes: "“" "”" "‘" "’  ";
+  quotes: '“' '”' '‘' '’  ';
   border-left: none;
 }
 
@@ -623,7 +635,7 @@
   margin-left: -36px;
   margin-top: -36px;
   position: absolute;
-  background: url("//i.imgur.com/TxzC70f.png") no-repeat;
+  background: url('//i.imgur.com/TxzC70f.png') no-repeat;
   cursor: pointer;
 }
 

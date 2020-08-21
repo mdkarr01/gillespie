@@ -9,7 +9,8 @@ include ('includes/header.php');
 <div class="row spaced">
   <div class="small-8 medium-centered columns">
     <div>
-      <a href="https://www.facebook.com/UnderOurCoversPodcast/" target="_blank"><img src="./images/podcast_banner.jpg" alt="Under Our Covers podcast link"></a>
+      <a href="http://www.herewearepodcast.com//episode/257/myco-meditations
+" target="_blank"><img src="./images/HWA_main_banner.jpg" alt="The Here we are podcast link"></a>
     </div>
   </div>
 </div>
@@ -19,12 +20,23 @@ include ('includes/header.php');
     <!-- <h4 class="blockquote-title">This is a Flexible Blockquote</h4> -->
     <blockquote>
       <p class="blockquote-content">
-      Stand-up comedian, Steve Gillespie and Pot-growing Hippie Witch, Rhianna Andrews welcome you to crawl under their covers, for an in depth look into their most private moments. Listen to them laugh, cry, fight, and fuck their way through the triumphs and struggles of their fast moving kinky psychedelic love and the world around them.</p>
+      I was a guest on the very popular Here We Are podcast with Shane Mauss. Shane sits down with Rhianna and I to discuss the work we all did as trip facilitators for Mycomeditations in Jamaica. We goof around a fair amount as friends do but there is a lot of good information about the amazing work Mycomeditations is doing to help people heal from past trauma and depression with the use of psilocybin mushrooms. Its a facinating thing to be apart of, give it a listen and if you have any questions or are interested in the retreats please reach out to me at 
+<a href="mailto:sgillespie@gillespiecomedy.com">sgillespie@gillespiecomedy.com</a>.</p>
     </blockquote>
   </div>
 </div>
 
     <h3 class="title">...and here are some podcasts I've guested on.</h3>
+
+  <div class="row spaced bottom">
+    <div class="small-6 large-4 columns">
+      <a href="https://professionconfession.podbean.com/e/shane-mauss-sex-drugs-and-conan-obrien-1-of-2/"><img src="./images/pro-co.jpg" alt="Profession Confession podcast" width="300" height="300" /></a>
+    </div>
+
+    <div class="small-6 large-8 columns">
+      <p>The newest episode of the Profession Confession podcast has just been released. Both Rhianna McNana and I were honored to co-host the show with Gabe Noah as we sat down with our good friend, psychonaut, and great comedian Shane Mauss. It was one of the most enjoyable podcasts I have been a part of it and I think a lot of you would enjoy it. We talk about sex, drugs, and Shane's meteoric rise is the world of stand up comedy. I put the link to the episode below. Thanks friends!</p> (<a href="https://professionconfession.podbean.com/e/shane-mauss-sex-drugs-and-conan-obrien-1-of-2/">Click here for the podcast</a>).
+    </div>
+  </div>
 
   <div class="row spaced bottom">
     <div class="small-6 large-4 columns">

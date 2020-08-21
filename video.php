@@ -10,6 +10,22 @@ include ('includes/header.php');
 </div>
 </div>
 
+
+<div class="row spaced bottom">
+	<div class="small-12 large-6 columns">
+		<h4>CRUSHING AT ACME IN MINNEAPOLIS</h4>
+		<div class="videowrapper">
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/GjYuQUflr4Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>		
+	</div>
+
+	<div class="small-12 large-6 columns">
+		<h4>OLD HALF-HOUR FROM HELIUM IN PORTLAND</h4>
+		<div class="videowrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/7Ks6YgpO-1E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+	</div>
+</div>
+<br><br>
+
+
 <div class="row spaced bottom">
 	<div class="small-12 large-6 columns">
 		<h4>Check This Out!</h4>
@@ -48,49 +64,81 @@ Alive on State&quot;
 
 <div class="row spaced bottom">
 	<div class="small-12 large-6 columns">
-		<h4>A Three Part Sketch Series From Your Baby Boys  &mdash; GILESTARIL</h4>
-		<p class="bold">PART 1 Lost Rob</p>
-		<div class="videowrapper">
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/_do55g3jECM" title="A THREE PART SKETCH SERIES FROM YOUR BABY BOYS  &mdash; GILESTARIL PART 1 Lost Rob" frameborder="0" allowfullscreen></iframe>
-		</div>
-		<br><br>
-		<p class="bold">Part 2 The Jackalope</p>
-
-		<div class="videowrapper">
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/BmQazYXWY7I" title="A THREE PART SKETCH SERIES FROM YOUR BABY BOYS  &mdash; GILESTARIL &mdash; Part 2 The Jackalope" frameborder="0" allowfullscreen></iframe>
-		</div>
-		<br><br>
-		<p class="bold">Part 3 The Homecoming (Finale)</p>
-		<div class="videowrapper">
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/nOpmFoe2G8c" title="A THREE PART SKETCH SERIES FROM YOUR BABY BOYS  &mdash; GILESTARIL &mdash; Part 3 The Homecoming (Finale)" frameborder="0" allowfullscreen></iframe>
-		</div>
+		<h4>NFL SUCKS PART 1</h4>
+		<div class="videowrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/UbInG_LgVAs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 	</div>
 
 	<div class="small-12 large-6 columns">
-		<h4>Gilestaril Sketch!  Trolling the Trolls</h4>
-		<div class="videowrapper">
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/XJpU8Dr1e_w" frameborder="0" allowfullscreen></iframe>
-		</div>
+		<h4>NFL SUCKS PART 2</h4>
+		<div class="videowrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/qqqZ2A6wJC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+	</div>
+</div>
 		<br><br>
-		<h4>The Laugh Factory in Hollywood just uploaded this short clip on to youtube. Check it out and give it a "like".</h4>
-		<div class="videowrapper">
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/Jj22gfTnpAI" frameborder="0" allowfullscreen></iframe>
-		</div>
+
+
+<div class="row spaced bottom">
+	<div class="small-12 large-6 columns">
+		<h4>STAND UP SHORT - HOME DEPOT</h4>
+		<div class="videowrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/GWnHLHAs_l0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+	</div>
+
+	<div class="small-12 large-6 columns">
+		<h4>LEGALIZE ALL DRUGS</h4>
+		<div class="videowrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/lLbHeAyFUHY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+	</div>
+</div>
 		<br><br>
+
+
+
+<div class="row spaced bottom">
+	<div class="small-12 large-6 columns">
+		<h4>BOYFRIEND WITH A HURT NECK (SKETCH COMEDY)</h4>
+		<div class="videowrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/Un23QsKzTUw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+	</div>
+
+	<div class="small-12 large-6 columns">
 		<h4>I made my national television debut on 4/25/16 on CONAN</h4>
 		<div class="videowrapper">
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/rS3iSC7MLTI" frameborder="0" allowfullscreen></iframe>
 		</div>
 	</div>
 </div>
+		<br><br>
+
+		<!-- break -->
+
+		<div class="row spaced bottom">
+	<div class="small-12 large-6 columns">
+		<h4>8 O'Clock HOWL (SKETCH COMEDY)</h4>
+		<div class="videowrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/qgV0qDoJu4I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+	</div>
+
+	<div class="small-12 large-6 columns">
+		<h4>OPEN RELATIONSHIPS</h4>
+		<div class="videowrapper">
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/ycWDhmkpK3E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</div>
+	</div>
+</div>
+		<br><br>
+
+		<!-- <h4>The Laugh Factory in Hollywood just uploaded this short clip on to youtube. Check it out and give it a "like".</h4>
+		<div class="videowrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/Jj22gfTnpAI" frameborder="0" allowfullscreen></iframe></div>
+		<h4>I made my national television debut on 4/25/16 on CONAN</h4>
+		<div class="videowrapper">
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/rS3iSC7MLTI" frameborder="0" allowfullscreen></iframe>
+		</div>
+	</div>
+</div> -->
 
 <div class="row spaced bottom">
-	<div class="small-12 large-6 columns">
+	<!-- <div class="small-12 large-6 columns">
 		<h4>Here is a sketch that I wrote and directed called "Modern Lassie". Its on FunnyorDie right now. Check it out.</h4>
 		<div class="videowrapper">
 		<iframe src="//www.funnyordie.com/embed/cc728bc15a" width="640" height="400" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
 		</div>
-	</div>
+	</div> -->
 
 	<div class="small-12 large-6 columns">
 		<h4>3M COMMERICAL</h4>
@@ -101,7 +149,7 @@ Alive on State&quot;
 </div>
 
 
-<div class="row bottom">
+<!-- <div class="row bottom">
 	<div class="small-12 large-6 columns">
 		<h4>Stand Up</h4>
 		<div class="videowrapper">
@@ -114,7 +162,7 @@ Alive on State&quot;
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/4SVgheIz5Wo" frameborder="0" allowfullscreen></iframe>
 		</div>
 	</div>
-</div>
+</div> -->
 <?php
 
 include ('includes/footer.inc.php');
